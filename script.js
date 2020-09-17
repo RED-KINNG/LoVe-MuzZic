@@ -37,11 +37,11 @@ const songs = [
 
     },
     {
-        name:'jethro-5',
+        name:'jethro-6',
         displayName: 'Maybe Its Time',
         artist: 'RED-KINNG',
 
-    }
+    },
 ]
 
 // check if playing
