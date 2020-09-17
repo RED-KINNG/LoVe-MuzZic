@@ -41,7 +41,7 @@ const songs = [
         displayName: 'Maybe Its Time',
         artist: 'RED-KINNG',
 
-    },
+    }
 ]
 
 // check if playing
