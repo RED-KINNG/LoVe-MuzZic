@@ -42,6 +42,12 @@ const songs = [
         artist: 'RED-KINNG',
 
     },
+    {
+        name:'jethro-7',
+        displayName: 'Life Is Beautiful',
+        artist: 'RED-KINNG',
+
+    },
 ]
 
 // check if playing
