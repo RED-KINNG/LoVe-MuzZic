@@ -48,12 +48,7 @@ const songs = [
         artist: 'RED-KINNG',
 
     },
-    {
-        name:'jethro-8',
-        displayName: 'El Farsante',
-        artist: 'RED-KINNG',
-
-    },
+    
 ]
 
 // check if playing
